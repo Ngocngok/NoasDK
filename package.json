@@ -1,0 +1,17 @@
+{
+  "name": "com.nowhere.noasdk",
+  "version": "0.0.1",
+  "displayName": "Not An SDK",
+  "description": "This is not an SDK!",
+  "unity": "2022.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://nowhere.com/",
+  "changelogUrl": "https://nowhere.com/changelog.html",
+  "licensesUrl": "https://nowhere.com/licensing.html",
+  "keywords": [],
+  "author": {
+    "name": "Nowhere",
+    "email": "nowhere@nowhere.com",
+    "url": "https://www.nowhere.com"
+  }
+}
